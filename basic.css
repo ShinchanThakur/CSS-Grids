@@ -1,3 +1,9 @@
+html,
+body {
+    background-color: peachpuff;
+    margin: 10px;
+}
+
 .container>div:nth-child(1n) {
     background-color: aqua;
 }
