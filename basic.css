@@ -1,0 +1,15 @@
+.container>div:nth-child(1n) {
+    background-color: aqua;
+}
+
+.container>div:nth-child(3n) {
+    background-color: bisque;
+}
+
+.container>div:nth-child(2n) {
+    background-color: rgb(103, 239, 130);
+}
+
+.container>div:nth-child(4n) {
+    background-color: yellow;
+}
