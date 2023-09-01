@@ -4,3 +4,8 @@
     grid-template-rows: 40px 200px 40px;
     grid-gap: 3px;
 }
+
+.header {
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
