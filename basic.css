@@ -8,6 +8,7 @@
 
 html,
 body {
+    box-sizing: border-box;
     background-color: peachpuff;
     height: 100%;
     padding: 10px;
