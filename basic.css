@@ -9,7 +9,9 @@
 html,
 body {
     background-color: peachpuff;
-    margin: 10px;
+    height: 100%;
+    padding: 10px;
+    margin: 0px;
 }
 
 .container>div:nth-child(1n) {
